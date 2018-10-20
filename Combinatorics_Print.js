@@ -19,9 +19,8 @@ Guaranteed wins for PICK-5 Lotteries.
 
 user_input = prompt('Which game would you like to play? ');
 
-
-function lot_sys_1(){
-    
+function lot_sys_1()
+{
     
     //System #1 guarantees 4-Win if 4 of the numbers drawn are in your set of 6 numbers.
     
@@ -55,7 +54,8 @@ function lot_sys_1(){
     
 }
 
-function lot_sys_2(){
+function lot_sys_2()
+{
     
     //System #2 guarantees 4-Win if 4 of the numbers drawn are in your set of 7 numbers.
     
@@ -97,7 +97,8 @@ function lot_sys_2(){
     document.write(array8 + "</br>");
 }
 
-function lot_sys_3(){
+function lot_sys_3()
+{
     
     //System #3 guarantees 4-Win if 4 of the numbers drawn are in your set of 8 numbers.
     
