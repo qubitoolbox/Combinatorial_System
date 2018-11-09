@@ -28,12 +28,6 @@ function lot_sys_1()
     alert('YOU ARE REQUIRED TO ENTER 6 DIGITS');
     
     //PROMPT THE USER FOR VALUES AND CONVERT TO INTEGER
-    _0 = parseInt(prompt());
-    _1 = parseInt(prompt());
-    _2 = parseInt(prompt());
-    _3 = parseInt(prompt());
-    _4 = parseInt(prompt());
-    _5 = parseInt(prompt());
 
     //CREATE ARRAY THAT STORES VALUES USER ENTERS
     var user = [_0, _1, _2, _3, _4, _5];
