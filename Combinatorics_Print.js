@@ -12,11 +12,12 @@ the book of Iliya Bluskok.
 Book Name: Combinatorial Systems with
 Guaranteed wins for PICK-5 Lotteries.
 */
-
-//PROVIDE A LIST OF AVAILABLE OPTIONS TO USER
-//JUST TESING CODE
-//LOTTO 1 OR NO
-
+/*
+PROVIDE A LIST OF AVAILABLE OPTIONS TO USER
+JUST TESING CODE
+LOTTO 1 OR NO
+*/
+//Depending on the user response, type of output
 user_input = prompt('Which game would you like to play? ');
 
 function lot_sys_1()
